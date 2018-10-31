@@ -1,1 +1,1 @@
-
+parallel kmeans with openMP
